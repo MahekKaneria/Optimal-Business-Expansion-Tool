@@ -2,8 +2,8 @@
 
 ## Project Information
 
-**Project Name:** ProfitMax: Optimal Store Location Predictor
-**GitHub Repository:** Optimal-Business-Expansion-Tool
+**Project Name:** ProfitMax: Optimal Store Location Predictor  
+**GitHub Repository:** Optimal-Business-Expansion-Tool  
 **Prepared by:** Mahek Kaneria  
 
 ---
